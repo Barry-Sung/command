@@ -1,1 +1,1 @@
-grep -n "define.*WIDTH\|define.*_INT\|SCALE_WIDTH\|COMP_INDEX_WIDTH\|T_SCALE_WIDTH" ~/Desktop/Vitis_Libraries/vision/L1/include/imgproc/xf_resize_nn_bilinear.hpp
+grep -n "COMP_INDEX_INT\|SCALE_INT\|PRE_INDEX" ~/Desktop/Vitis_Libraries/vision/L1/include/imgproc/xf_resize_nn_bilinear.hpp
